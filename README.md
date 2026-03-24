@@ -242,42 +242,42 @@ elif cmd == "DWNL":
 
 ### server-select.py
 - Fitur upload
-![select-upload](image-3.png)
+![select-upload](asset/image-3.png)
 
 - Fitur download 
-![select-download](image-4.png)
+![select-download](asset/image-4.png)
 
 - Fitur list
-![select-list](image-5.png)
+![select-list](asset/image-5.png)
 
 ### server-sync.py
 - Fitur upload
-![sync-uploadclient1](image-7.png)
+![sync-uploadclient1](asset/image-7.png)
 `Dapat dilihat pada terminal server, hanya ada satu client yang terhubung di satu waktu. Lalu, pada client yang terhubung lebih dahulu (client 1) dapat menjalankan command untuk upload file ke server, sedangkan client yang mencoba untuk terhubung pada saat client 1 sedang terhubung tidak dapat menjalankan command nya.`
 
 - Fitur download
-![sync-download](image-8.png)
+![sync-download](asset/image-8.png)
 
 - Fitur list
-![sync-list](image-9.png)
+![sync-list](asset/image-9.png)
 
 
 ### server-thread.py
 - Fitur upload
-![thread-upload](image-10.png)
+![thread-upload](asset/image-10.png)
 
 - Fitur download
-![thread-download](image-11.png)
+![thread-download](asset/image-11.png)
 
 - Fitur list
-![thread-list](image-12.png)
+![thread-list](asset/image-12.png)
 
 ### server-poll.py
 - Fitur upload
-![poll-upload](image-13.png)
+![poll-upload](asset/image-13.png)
 
 - Fitur download
-![poll-download](image-14.png)
+![poll-download](asset/image-14.png)
 
 - Fitur list
-![poll-list](image-15.png)
+![poll-list](asset/image-15.png)
